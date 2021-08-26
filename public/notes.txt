@@ -1,0 +1,11 @@
+####
+Properties(props)
+####
+
+-> Props : Short of Properties
+-> Props are properties which are passed as values to components.
+-> Using props, we can make the websites dynamic and use components in other websites.
+
+####
+States
+####
